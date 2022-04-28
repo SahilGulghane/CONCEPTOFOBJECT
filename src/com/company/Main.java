@@ -12,5 +12,5 @@ public class Main {
 class Student {
 
     int roll_no ;
-
+    int r;
 }
